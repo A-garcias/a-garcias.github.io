@@ -1,5 +1,7 @@
 ---
+layout: home
 title: Home
+permalink: /
 ---
 # Welcome to My Portfolio
-Hi, I'm Alba Garcia-Sarabia, a Mechanical Engineering student. 
+Hi, I'm a Mechanical Engineering student. 
