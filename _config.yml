@@ -1,6 +1,6 @@
 
 title: "Alba Garcia-Sarabia's Portfolio"
 description: "Mechanical Engineering Portfolio"
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@gh-pages"
 plugins:
   - jekyll-remote-theme
