@@ -4,7 +4,7 @@ title: Projects
 [Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Resume](resume.md) | [Contact](contact.md)
 
 # Research Projects
-First Year Engineering Student Use of Prototyping Strategies - IDREEM Lab – Fall 2025 <br>
+## First Year Engineering Student Use of Prototyping Strategies - IDREEM Lab – Fall 2025 <br>
 **Focus:** Engineering Design, Self-Efficacy, Undergraduate Research Assistant <br>
 **Tools:** SolidWorks, Statistical analysis <br>
 **Outcome:** Investigate how different prototyping strategies affect first-year engineering students’ design outcomes. Specifically, it examines the impact of parallel versus iterative design exposure in a task where students designed 3D printed devices to launch a ball 10 feet into a target. The goal is to better understand how prototyping methods influence the design process, exploration of the possible design space, and students’ confidence in their approach.
