@@ -55,6 +55,9 @@ Presented design rationale, CAD renderings, and performance analysis to faculty 
 **Outcome:** Optimized conditions and created models for a hypothetical lunar rover suspension system. 
 Given design parameters and specifications, compared the output of analytical,linear and non-linear mass-spring-damper systems at different frequencies and tested convergence.  
 
+[View project on GitHub](HypothLunarRover/) <br>
+[View PDF Report](HypothLunarRover/Lunar_Rover_Report.pdf)
+
 ## Culture-Inspired Home Decor - Spring 2023
 **Focus:** Design and Manufacturing <br>
 **Tools:** Solidworks, 3D Printing <br>
