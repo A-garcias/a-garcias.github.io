@@ -5,4 +5,5 @@ title: Resume
 
 # Resume
 
-Download my resume here: [Resume PDF](??)
+Download my resume here: [Alba Garcia-Sarabia Resume (PDF)](GarciaSarabia_Resume_2026.pdf)
+
