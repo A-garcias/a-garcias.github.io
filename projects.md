@@ -20,10 +20,6 @@ Gaussian Process Regression model, despite challenges like sparse sampling and n
 for the paper's supplied dataset, was able to predict mechanical porperties with relative accruacy. Not sufficiently sampled 
 for high-dimensional analysis, but non-normality and multicollinearity was confirmed with Statistical Data analysis. 
 
-## Automotive Electronics Keyless Car and Security Group Research Paper - Spring 2025
-**Focus:** Control Systems and Simulations <br>
-**Tools:** MATLAB, System dynamics <br>
-**Outcome:** Comparison of Keyless Car System Technology Strengths and Weaknesses from Engineer and Consumer standpoints. 
 
 ## Automotive Electronics Keyless Car and Security Group Research Paper - Spring 2025
 **Focus:** Automotive Electronics & Securiy System Analysis <br>
