@@ -20,6 +20,7 @@ Gaussian Process Regression model, despite challenges like sparse sampling and n
 for the paper's supplied dataset, was able to predict mechanical porperties with relative accruacy. Not sufficiently sampled 
 for high-dimensional analysis, but non-normality and multicollinearity was confirmed with Statistical Data analysis. 
 
+[View project files on GitHub](https://github.com/A-garcias/a-garcias.github.io/tree/main/ML_MechPropPrediction) <br>
 
 ## Automotive Electronics Keyless Car and Security Group Research Paper - Spring 2025
 **Focus:** Automotive Electronics & Securiy System Analysis <br>
